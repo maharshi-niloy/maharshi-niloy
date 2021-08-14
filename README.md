@@ -2,6 +2,7 @@
 - 👀 I’m interested in working with AI oneday.
 - 🌱 I’m currently learning python, machine learning, numpy, pandas, scikit-learn
 - 💞️ I’m not looking to collaborate with anyone yet.
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: email me at mniloy4899@gmail.com
 - ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
